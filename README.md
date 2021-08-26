@@ -1,4 +1,4 @@
-# Brief Portfolio for application for role as Data Analyst
+# Brief Portfolio for application of Data Analyst
 
 The folder contain jupyter notebook of Data analysis personally completed and Group work by me. 
 
