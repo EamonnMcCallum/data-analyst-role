@@ -5,7 +5,7 @@ The folder contain jupyter notebook of Data analysis personally completed and Gr
 Each of the notebook are written in Python3 however all inital data has not been included as I don't own this information
 
 ## ETL directory
-This contains link to another Github repository that shows a group project that i contributed, show use of ETL concept and tool such as SQL
+This contains link to another Github repository that shows a group project that i contributed, show use of ETL concept and tools such as SQL
 
 ## Regression 
 The regression folder demonstrate example of both a Linear and Logistic regression based on real world data
