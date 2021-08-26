@@ -13,6 +13,6 @@ The regression folder demonstrate example of both a Linear and Logistic regressi
 ## Predictive Models 
 There are two directories showing models I have produced.  
 
-Random Forest directoy hold notebook that has utilised a Random Forrest Regression Tree
+Random Forest directory hold notebook that has utilised a Random Forrest Regression Tree
 
 Unsupervised directory contains a K-mean model that was used to enrich and existing data and prediction engine.  
